@@ -9,7 +9,7 @@
 ### 🚀 Tech Stack
 - **Languages:** Java
 - **Frameworks & Libraries:** Flutter, React, Node.js, Express.js
-- **Tools & Platforms:** Mysql, MongoDB, Git, GitHub
+- **Tools & Platforms:** MySQL, MongoDB, Git, GitHub
 
 ---
 
@@ -30,7 +30,9 @@
 ### 💻 Coding Profiles
 
 - 🔗 [LeetCode](https://leetcode.com/u/rashwanth90474/)
-  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rashwanth90474?theme=dark&font=Karma)
+
 ---
 
 ### 📫 Connect with Me
@@ -40,4 +42,3 @@
 ---
 
 > “Code. Learn. Build. Repeat.” 🚀
-
